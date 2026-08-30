@@ -1,6 +1,6 @@
 # All Tasks I Contributed
 
-## Published
+## Published and Contributed
 
 ### A. Itch.io
 
@@ -10,6 +10,10 @@
 ### B. Google Playstore
 
 _processing_
+
+## Unpublished but Contributed
+1. **Red Rain Rush**
+2. **MIDNIGHT LARK: Starflight**
 
 ## Job in Hand
 
